@@ -7,9 +7,7 @@
 
   <body>
     <div id="app"></div>
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
     <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />
-    <img src="https://readme-jokes.vercel.app/api?theme=merko" alt="Jokes Card" />
     
 
 <!--
