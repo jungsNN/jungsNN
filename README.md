@@ -1,14 +1,18 @@
 <h3 align="center">
  <a href="https://github.com/jungsNN/readme-typing-svg">
- 
- <img src="https://readme-typing-svg.herokuapp.com?font=Minisystem&duration=1200&color=21F782&center=true&vCenter=true&multiline=true&width=320&height=70&lines=Jenny+Jung;+Frontend+and+Web3+Dev;+;+;+;+;+;+">
-
-  <img src="https://metapub.mypinata.cloud/ipfs/QmP7LNNTXf27Ydcr8e9m3h7fud6sTpPThX6F7oQuV75ePv" width="150px">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fake+Receipt&size=14&duration=750&color=9F0EF7&background=07FF0C00&multiline=true&width=320&height=250&lines=+;+;✅ React%2C+NextJS%2C+SolidJS%2C+Flutter;+;+✅ Python%2C+Dart%2C+Javascript%2C+Rust;+;+✅ IPFS%2C+AWS%2C+Web3%2C+ThreeJS...;+;+WAGMI%2C+to+the+%F0%9F%8C%95+%F0%9F%9B%B8+!+;+;+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Minisystem&duration=1200&color=21F782&center=true&vCenter=true&multiline=true&width=320&height=70&lines=Jenny+Jung;+Frontend+and+Web3+Dev;+;+;+;+;+;+">
+  </a>
+<br>
+  <a align="center">
+    <img src="https://metapub.mypinata.cloud/ipfs/QmP7LNNTXf27Ydcr8e9m3h7fud6sTpPThX6F7oQuV75ePv" width="150px">
+  </a>
+ <br>
+  <a href="https://git.io/typing-svg" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=printf&size=14&duration=700&color=F2F705FF&vCenter=true&multiline=true&width=400&height=250&lines=%E2%9C%85+Python%2C+Javascript%2C+Rust%2C+Dart;+;%E2%9C%85+React%2C+NextJS%2C+SolidJS%2C+LIT%2C+Flutter;+;%E2%9C%85+Neural+Networks%2C+Machine+Learning%2C+Data+Science;+;%E2%9C%85+IPFS%2C+ThreeJS%2C+aws%2C+web3;+;++...;+WAGMI+TO+THE+%F0%9F%8C%95+%F0%9F%9B%B8+!;+">
   </a>
 </h3>
-
+  
+<br>
 <p align="right">
   <p align="right">
     <a href="https://ko-fi.com/suzukidogemom">
@@ -27,7 +31,7 @@
   <p align="right">
   <a hrf="https://github.com/jungsNN/readme-typing-svg">
     <img src="https://metapub.mypinata.cloud/ipfs/QmbnFa5YsmuzzGvhDo4sbSuAJfwQxKrnbduDJn4RcxvnYJ" width="150px" align="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fake+Receipt&size=14&duration=470&color=21F782&background=07FF0C00&multiline=true&width=125&height=120&lines=I...;+;+need...+;+;Coffee!!+%E2%98%95%EF%B8%8F+%F0%9F%A5%BA+;+">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fake+Receipt&size=14&duration=470&color=F2F705FF&background=07FF0C00&multiline=true&width=125&height=120&lines=I...;+;+need...+;+;Coffee!!+%E2%98%95%EF%B8%8F+%F0%9F%A5%BA+;+">
     </a>
   </p>
 </p>
@@ -65,9 +69,9 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/jungsNN/covid19-forecast"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=covid19-forecast&theme=react&bg_color=1F222E&title_color=9F0EF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="covid19-forecast"></a>
-  <a href="https://github.com/jungsNN/human-dog-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=human-dog-app&theme=react&bg_color=1F222E&title_color=9F0EF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="human-dog-app"></a>
-  <a href="https://github.com/jungsNN/game_survive2020"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=game_survive2020&theme=react&bg_color=1F222E&title_color=9F0EF7&icon_color=F8D866&hide_border=true&show_icons=false" alt="game_survive2020"></a>
+  <a href="https://github.com/jungsNN/covid19-forecast"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=covid19-forecast&theme=react&bg_color=1F222E&title_color=21F782&icon_color=F8D866&hide_border=true&show_icons=false" alt="covid19-forecast"></a>
+  <a href="https://github.com/jungsNN/human-dog-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=human-dog-app&theme=react&bg_color=1F222E&title_color=21F782&icon_color=F8D866&hide_border=true&show_icons=false" alt="human-dog-app"></a>
+  <a href="https://github.com/jungsNN/game_survive2020"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=game_survive2020&theme=react&bg_color=1F222E&title_color=21F782&icon_color=F8D866&hide_border=true&show_icons=false" alt="game_survive2020"></a>
 </p>
 
 <p align="left">
