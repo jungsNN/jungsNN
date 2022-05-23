@@ -3,9 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Minisystem&duration=1200&color=21F782&center=true&vCenter=true&multiline=true&width=320&height=70&lines=Jenny+Jung;+Frontend+and+Web3+Dev;+;+;+;+;+;+">
   </a>
 <br>
-  <a align="center">
+ 
+ <a align="center" href="https://dogemoms.xyz">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/-Curriculum Vitae-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi">
+    </a>
+ <br/>
+ 
+<!--   <a align="center">
     <img src="https://ipfs.infura.io/ipfs/bafybeiaipn3r3karf4c7xuywvjzwe6vxyu6eioz7iwu3dob34zlnnctwfu" width="150px">
-  </a>
+  </a> -->
  <br>
   <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=printf&size=14&duration=700&color=F2F705FF&vCenter=true&multiline=true&width=400&height=250&lines=%E2%9C%85+Python%2C+Javascript%2C+Rust%2C+Dart;+;%E2%9C%85+React%2C+NextJS%2C+SolidJS%2C+LIT%2C+Flutter;+;%E2%9C%85+Neural+Networks%2C+Machine+Learning%2C+Data+Science;+;%E2%9C%85+IPFS%2C+ThreeJS%2C+aws%2C+web3;+;++...;+WAGMI+TO+THE+%F0%9F%8C%95+%F0%9F%9B%B8+!;+">
