@@ -4,7 +4,7 @@
   </a>
 <br>
   <a align="center">
-    <img src="https://metapub.mypinata.cloud/ipfs/QmP7LNNTXf27Ydcr8e9m3h7fud6sTpPThX6F7oQuV75ePv" width="150px">
+    <img src="https://ipfs.infura.io/ipfs/bafybeiaipn3r3karf4c7xuywvjzwe6vxyu6eioz7iwu3dob34zlnnctwfu" width="150px">
   </a>
  <br>
   <a href="https://git.io/typing-svg" align="center">
@@ -30,7 +30,7 @@
   </p>
   <p align="right">
   <a hrf="https://github.com/jungsNN/readme-typing-svg">
-    <img src="https://metapub.mypinata.cloud/ipfs/QmbnFa5YsmuzzGvhDo4sbSuAJfwQxKrnbduDJn4RcxvnYJ" width="150px" align="">
+    <img src="https://ipfs.infura.io/ipfs/QmbnFa5YsmuzzGvhDo4sbSuAJfwQxKrnbduDJn4RcxvnYJ" width="150px" align="">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fake+Receipt&size=14&duration=470&color=F2F705FF&background=07FF0C00&multiline=true&width=125&height=120&lines=I...;+;+need...+;+;Coffee!!+%E2%98%95%EF%B8%8F+%F0%9F%A5%BA+;+">
     </a>
   </p>
