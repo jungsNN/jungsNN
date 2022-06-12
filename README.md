@@ -5,7 +5,7 @@
 <br>
  
  <a align="center" href="https://dogemoms.xyz">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-Curriculum Vitae-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/-Portfolio-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi">
     </a>
  <br/>
  
