@@ -6,7 +6,7 @@
 <br>
 <p align="right">
   <p align="right">
-   <a align="right" href="https://dogemoms.xyz">
+   <a align="right" href="https://jjung.xyz">
      <img src="https://custom-icon-badges.herokuapp.com/badge/-Portfolio-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi">
     </a>
     <a href="https://ko-fi.com/suzukidogemom">
