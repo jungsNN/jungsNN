@@ -1,39 +1,29 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=09b43a&center=true&vCenter=true&width=435&lines=Jenny+Jung;Software+Engineer" alt="Typing SVG" /></a>
 <br>
- 
-  
-<br>
+
+<!-- TODO: need to update to working content urls -->
 <p align="right">
   <p align="right">
    <a align="right" href="https://jjung.xyz">
-     <img src="https://custom-icon-badges.herokuapp.com/badge/-Portfolio-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi">
+<!--      <img src="https://custom-icon-badges.herokuapp.com/badge/-Portfolio-white?style=for-the-badge&logo=cv&logoColor=brown" alt="buy a ko-fi"> -->
     </a>
     <a href="https://ko-fi.com/suzukidogemom">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/-Coffee-beige?style=for-the-badge&logo=kofi&logoColor=brown" alt="buy a ko-fi">
+<!--     <img src="https://custom-icon-badges.herokuapp.com/badge/-Coffee-beige?style=for-the-badge&logo=kofi&logoColor=brown" alt="buy a ko-fi"> -->
     </a>
     <a href="https://github.com/sponsors/jungsNN">
-      <img alt="Sponsor with Github" title="Sponsor with Github"src="https://custom-icon-badges.herokuapp.com/badge/-Sponsor-red?style=for-the-badge&logo=heart&logoColor=white"/>
+<!--       <img alt="Sponsor with Github" title="Sponsor with Github"src="https://custom-icon-badges.herokuapp.com/badge/-Sponsor-red?style=for-the-badge&logo=heart&logoColor=white"/> -->
       </a>
     <a href="https://github.com/jungsNN?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=gold&labelColor=gold&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jungsNN"/>
+<!--       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=gold&labelColor=gold&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jungsNN"/> -->
     </a>
      <a href="https://github.com/jungsNN?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jungsNN?color=skyblue&labelColor=skyblue&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<!--       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jungsNN?color=skyblue&labelColor=skyblue&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> -->
       </a>
-  </p>
-  
-</p>
-
-<!-- Social icons section -->
-<br/>
+  </p> 
+</p> 
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-
 <p align="right">
   <a href="https://twitter.com/jungsNN">
       <img alt="twitter-handle" title="Twitter" src="https://img.shields.io/badge/jungsnn-1DA1F2?style=for-the-badge&logo=twitter&labelColor=black&logoColor=1DA1F2"/></a>
@@ -44,12 +34,10 @@
     <img  alt="profile-view" title="Views" src="https://komarev.com/ghpvc/?username=jungsNN&style=for-the-badge&color=orange">
   </a>
   <a href="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=green&label=contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DjungsNN%26type%3Djson">
-    <img alt="total contributions" title="Contributions" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=darkgreen&label=contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DjungsNN%26type%3Djson&style=for-the-badge">
+<!--     <img alt="total contributions" title="Contributions" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=darkgreen&label=contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DjungsNN%26type%3Djson&style=for-the-badge"> -->
   </a>
-  <!-- <a href="https://github.com/jungsNN/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
- -->
- 
+  <a href="https://github.com/jungsNN/Simple-View-Counter">
+<!--     <img alt="views" title="GitHub profile views" src="freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> -->
  </p>
 
 
@@ -65,22 +53,13 @@
  <a href="https://github.com/jungsNN/escrow-ui-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jungsNN&repo=escrow-ui-react&theme=react&bg_color=1F222E&title_color=409eff&icon_color=F8D866&hide_border=true&show_icons=false" alt="escrow-ui-app"></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/jungsNN?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+  <a href="https://github.com/jungsNN?tab=repositories&sort=stargazers">
+   All Repositories
+  </a>
 
-## 📕 Top projects I've contributed to
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<!-- <p align="left">
-  <a href="https://github.com/zapproject/hardhat-bsc"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zapproject&hardhat-bsc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="hardhat-bsc"></a>
-
-</p> -->
-
-<p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
+<!-- ## 📕 Top projects I've contributed to -->
+<!--   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a> -->
 
 ## 🔥 Streak stats
 
